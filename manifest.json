@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Get all magnet links from the present page",
     "icons": {
-        "48": "imgs/favicon.ico"
+        "256": "imgs/favicon.png"
     },
     "permissions": ["activeTab"],
     "background": {
@@ -12,7 +12,7 @@
     },
     "browser_action": {
       "default_icon": {
-        "48": "imgs/favicon.ico"
+        "256": "imgs/favicon.png"
       }
     }
 }
